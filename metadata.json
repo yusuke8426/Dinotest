@@ -1,0 +1,6 @@
+{
+  "name": "DINO RUN",
+  "description": "Retro pixel dino endless runner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
